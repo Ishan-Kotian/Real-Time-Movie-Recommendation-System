@@ -76,6 +76,6 @@ We propose to build a real‑time movie recommendation system that ingests user 
 - **Tableau**
 
 ## Links & Resources
-- [Project Flier](https://www.canva.com/design/DAGlnRBgqM8/rnpY-b5GCMxnEAy6gMrwgQ/view?utm_content=DAGlnRBgqM8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3168aea72a)
+- [Project Flyer](https://www.canva.com/design/DAGlnRBgqM8/rnpY-b5GCMxnEAy6gMrwgQ/view?utm_content=DAGlnRBgqM8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3168aea72a)
 - [Marketing Dashboard](https://public.tableau.com/app/profile/yi.hsiang.yen/viz/Real_Time_Ratings_Monitor_Dashboard/MKTDashboard?publish=yes)
 - [Monitoring Dashboard](https://public.tableau.com/app/profile/yi.hsiang.yen/viz/Real_Time_Ratings_Monitor_Dashboard/MKTDashboard?publish=yes)
