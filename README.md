@@ -74,6 +74,8 @@ We propose to build a real‑time movie recommendation system that ingests user 
 - **PySpark ALS**, association rule mining, frequent pattern mining  
 - **Databricks** (deployment & monitoring)  
 - **Tableau**
+- ![Architecture](https://github.com/user-attachments/assets/5a760eff-fe76-4c60-8737-679a0913b75a)
+
 
 ## Links & Resources
 - [Project Flyer](https://www.canva.com/design/DAGlnRBgqM8/rnpY-b5GCMxnEAy6gMrwgQ/view?utm_content=DAGlnRBgqM8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3168aea72a)
